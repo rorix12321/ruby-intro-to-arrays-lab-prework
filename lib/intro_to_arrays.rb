@@ -1,2 +1,3 @@
-def array1 []
+def array1
+  []
 end
